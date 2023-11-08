@@ -2,7 +2,7 @@
 
 1 - É necessário ter o terraform instalado
 
-2 - Preencha os dados de acesso a AWS no providar do config.ts
+2 - Preencha os dados de acesso a AWS no provider do config.ts
 
 3 - Rodar o comando para iniciar o terraform
 
@@ -25,5 +25,5 @@ $ terraform apply
 6 - Para excluir todos os serviços criados na AWS
 
 ```bash
-$ terraform terraform destroy
+$ terraform destroy
 ```
